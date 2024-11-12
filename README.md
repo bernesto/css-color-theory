@@ -2,6 +2,8 @@
 
 A sophisticated JavaScript library for extracting and generating color palettes from images using color theory, psychology, and accessibility principles. This library helps create cohesive, psychologically informed color schemes while ensuring accessibility standards and providing smooth transitions for dynamic applications.
 
+Example: [https://codepen.io/bernesto/pen/eYqQybz]
+
 ## Features
 
 - **Intelligent Color Extraction**
